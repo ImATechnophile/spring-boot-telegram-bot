@@ -2,12 +2,12 @@
 
 It is just an Weekend Edutainment Project. This Bot will show you 
 
-*Covid19 live Global data.
-*Covid19 live India data.
-*Covid19 live Tamil Nadu data.
-*Covid19 live Tamil Nadu Districts data.
-*Spring Boot Quotes.
-*About me
+* Covid19 live Global data.
+* Covid19 live India data.
+* Covid19 live Tamil Nadu data.
+* Covid19 live Tamil Nadu Districts data.
+* Spring Boot Quotes.
+* About me
 
 ![WhatsApp Image 2020-06-27 at 05 22 39 (3)](https://user-images.githubusercontent.com/35361302/85909243-73470380-b836-11ea-9464-69a222da6df0.jpeg)
 ![WhatsApp Image 2020-06-27 at 05 22 39 (2)](https://user-images.githubusercontent.com/35361302/85909262-970a4980-b836-11ea-9b64-8fed54e90d54.jpeg)
