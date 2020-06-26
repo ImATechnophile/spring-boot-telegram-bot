@@ -18,7 +18,7 @@ It is just an Weekend Edutainment Project. This Bot will show you
 It work's well in java 1.8 jdk
 
 ## Command to run this App:
-* git clone https://github.com/ImATechnophile/AngularTicTacToe.git
+* https://github.com/ImATechnophile/spring-boot-telegram-bot.git
 # inside root folder
 * mvn clean install
 * mvn spring-boot:run
