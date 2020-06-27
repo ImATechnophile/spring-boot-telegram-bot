@@ -20,6 +20,7 @@ It work's well in java 1.8 jdk
 ## Command to run this App:
 * https://github.com/ImATechnophile/spring-boot-telegram-bot.git
 # inside root folder
+* Change BOT username & token with yours in the MyBot.java
 * mvn clean install
 * mvn spring-boot:run
 
