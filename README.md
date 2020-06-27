@@ -18,7 +18,7 @@ It is just an Weekend Edutainment Project. This Bot will show you
 It work's well in java 1.8 jdk
 
 ## Command to run this App:
-* https://github.com/ImATechnophile/spring-boot-telegram-bot.git
+* git clone https://github.com/ImATechnophile/spring-boot-telegram-bot.git
 # inside root folder
 * Change BOT username & token with yours in the MyBot.java
 * mvn clean install
