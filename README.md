@@ -24,4 +24,5 @@ It work's well in java 1.8 jdk
 * mvn clean install
 * mvn spring-boot:run
 
-## Access the app at http://localhost:8080/
+## Access your bot in Telegram APP
+# Soon, you will get a brief blog about this bot
