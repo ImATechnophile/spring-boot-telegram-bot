@@ -10,10 +10,13 @@ It is just an Weekend Edutainment Project. This Bot will show you
 * About me
 ## UI views:
 * Info view in telegram:
+
 ![WhatsApp Image 2020-06-27 at 05 22 39 (3)](https://user-images.githubusercontent.com/35361302/85909243-73470380-b836-11ea-9464-69a222da6df0.jpeg)
 * About this bot in telegram:
+
 ![WhatsApp Image 2020-06-27 at 05 22 39 (2)](https://user-images.githubusercontent.com/35361302/85909262-970a4980-b836-11ea-9b64-8fed54e90d54.jpeg)
 * Initial chat view in telegram:
+
 ![WhatsApp Image 2020-06-27 at 05 22 39](https://user-images.githubusercontent.com/35361302/85909274-a6899280-b836-11ea-9164-58b52a82d10a.jpeg)
 
 ## Spring Boot (Java)
